@@ -27,3 +27,5 @@ Ace Coding Interview with 75 Qs
 
 1. [move-zeroes](https://leetcode.com/problems/move-zeroes)
     - use two pointers left (calc zero) and right -> shuffle left and right when i is non-zero
+2. [is-subsequence](https://leetcode.com/problems/is-subsequence)
+    - ptr to track the matching char, retrun true if ptr == substr.length

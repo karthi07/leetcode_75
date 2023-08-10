@@ -18,3 +18,6 @@ Ace Coding Interview with 75 Qs
 5. [reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)
     - use two pointer -> start_idx and end_idx -> loop till you find vowel -> exchange the position of start and end vowel
 6. [reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string)
+    - split str and reverse
+7. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)
+    - calc prefix and suffix product array, res[i] = prefix[i] * suffix[i]

@@ -13,3 +13,5 @@ Ace Coding Interview with 75 Qs
     - get GCD of the str lengths and return subset
 3. [kids-with-the-greatest-number-of-candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
     - loop over and check if sum exceeds max value
+4. [can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
+    - loop over arr -> check is_prev_slot_free and is_next_slot_free -> if both available update bed and counter

@@ -15,3 +15,5 @@ Ace Coding Interview with 75 Qs
     - loop over and check if sum exceeds max value
 4. [can-place-flowers](https://leetcode.com/problems/can-place-flowers/)
     - loop over arr -> check is_prev_slot_free and is_next_slot_free -> if both available update bed and counter
+5. [reverse-vowels-of-a-string](https://leetcode.com/problems/reverse-vowels-of-a-string)
+    - use two pointer -> start_idx and end_idx -> loop till you find vowel -> exchange the position of start and end vowel

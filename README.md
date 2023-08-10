@@ -21,3 +21,9 @@ Ace Coding Interview with 75 Qs
     - split str and reverse
 7. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self)
     - calc prefix and suffix product array, res[i] = prefix[i] * suffix[i]
+
+
+**Two Pointers**
+
+1. [move-zeroes](https://leetcode.com/problems/move-zeroes)
+    - use two pointers left (calc zero) and right -> shuffle left and right when i is non-zero

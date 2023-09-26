@@ -41,6 +41,8 @@ Ace Coding Interview with 75 Qs
 
 1. ['removing_stars_from_a_string'](https://leetcode.com/problems/removing-stars-from-a-string)
    - Loop over elements, if string encountered, push to stack(array), if \* is encountered, pop from the result array
+2. ['asteroid_collision'](https://leetcode.com/problems/asteroid-collision)
+   - Loop over elements, maintain while loop to check previous and currrent collision, the pop or push accordingly
 
 ---
 

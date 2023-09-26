@@ -29,3 +29,9 @@ Ace Coding Interview with 75 Qs
     - use two pointers left (calc zero) and right -> shuffle left and right when i is non-zero
 2. [is-subsequence](https://leetcode.com/problems/is-subsequence)
     - ptr to track the matching char, retrun true if ptr == substr.length
+
+## Sept - Week 3
+
+**Hash Map / Set**
+1. [equal_row_and_column_pairs](https://leetcode.com/problems/equal-row-and-column-pairs/)
+    - store row occurence into hash, then loop over the col (using transpose) and calc the matching pair
